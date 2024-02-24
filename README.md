@@ -1,8 +1,16 @@
 # helloexpress
 
-
+This project contains REST  API with following features: 
+- Welcome endpoint 
+- Multipy endpoint
 
 ## Getting started
+First install the dependencies: 
+'''sh
+npm i
+'''
+Start the Rest API services: 
+'node app.js'
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
