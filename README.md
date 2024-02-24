@@ -6,9 +6,9 @@ This project contains REST  API with following features:
 
 ## Getting started
 First install the dependencies: 
-'''sh
-npm i
-'''
+```
+npm install
+```
 Start the Rest API services: 
 'node app.js'
 
